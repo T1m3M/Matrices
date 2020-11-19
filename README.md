@@ -3,7 +3,8 @@
 
 ## What's that?
 
-A simple program to create Matrices objects and perform operations like:
+A simple program written in C++ using Code::Blocks IDE to create Matrices objects and perform operations like:
+
 - Adding two matrices
 - Subtracting two matrices
 - Finding the multiplication of two matrices
