@@ -1,5 +1,5 @@
-### Matrices
-# Coded: March 2020
+# Matrices
+### Coded: March 2020
 
 ## What's that?
 
